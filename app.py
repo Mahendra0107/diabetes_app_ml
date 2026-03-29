@@ -12,7 +12,7 @@ import pickle, os, warnings
 warnings.filterwarnings('ignore')
 
 st.set_page_config(
-    page_title="Glycemic Risk Assessment",
+    page_title="Diabetes Risk Assessment",
     page_icon="⬡",
     layout="wide",
     initial_sidebar_state="expanded"
